@@ -1,0 +1,24 @@
+{
+  "name": "limo-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "serve src",
+    "test": "npm run server",
+    "start": "npm run server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvaniGabrovsky/Limo-Service.git"
+  },
+  "author": "Ivan Gabrovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvaniGabrovsky/Limo-Service/issues"
+  },
+  "homepage": "https://github.com/IvaniGabrovsky/Limo-Service#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
