@@ -25,7 +25,10 @@
    grid-row: 1;
 }
 
-
+body {
+   background-image: url("car-service-miami-airport-1024x768.jpg"), url("limofinder-map-miami-beach-1024x404.jpg");
+   background-color: #cccccc;
+ }
 
 
    
